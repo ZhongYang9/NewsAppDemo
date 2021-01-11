@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NewsAppDemo</string>
+    <string name="text_newsContent_tip">点击左侧标题查看新闻内容</string>
+</resources>
